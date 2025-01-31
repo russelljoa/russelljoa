@@ -1,4 +1,4 @@
-<h1 style = "color: rgb(255,176,176)">Hi, I'm Russell! 👋<h1/>
+# Hi, I'm Russell! 👋
 
 ## 🚀 About Me
 
