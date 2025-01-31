@@ -1,4 +1,4 @@
-<h1 style = "background: linear-gradient(90deg, rgba(255,176,176,1) 0%, rgba(243,171,255,0) 100%); color: transparent; background-clip: text;">Hi, I'm Russell! 👋<h1/>
+<h1 style = "color: rgb(255,176,176)">Hi, I'm Russell! 👋<h1/>
 
 ## 🚀 About Me
 
