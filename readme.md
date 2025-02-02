@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a freshman at **Boston University**, studying **Computer Science** with a **Minor in Business Management and Administration**. Passionate about **tech, software development, business, and web3**, I love working on projects that combine engineering, finance, and entrepreneurship.
+I'm a freshman at **Boston University**, studying **Computer Science** with a **Minor in Business Management and Administration**. Passionate about **tech, software development, business, and web3**, I love working on projects that combine software engineering, finance, and entrepreneurship.
 
 ## 🔍 Interests & Skills
 - **Software Development** (Python, React, PHP, Java)
