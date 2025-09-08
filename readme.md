@@ -2,7 +2,7 @@
 **My Resume:** [View PDF](https://drive.google.com/file/d/1mTXWcBRIyukXDyp4wzwzYl_w4LZZnrxa/view?usp=sharing) **|**  [Download](https://drive.google.com/uc?export=download&id=1mTXWcBRIyukXDyp4wzwzYl_w4LZZnrxa)
 ## 🚀 About Me
 
-I'm a freshman at **Boston University**, studying **Computer Science** with a **Minor in Business Management and Administration**. Passionate about **tech, software development, business, and web3**, I love working on projects that combine software, finance, and entrepreneurship.
+I'm a sophomore at **Boston University**, studying **Computer Science** with a **Minor in Business Management and Administration**. Passionate about **tech, software development, business, and web3**, I love working on projects that combine software, finance, and entrepreneurship.
 
 ## 🔍 Interests & Skills
 - **Software Development** (Python, React, PHP, Java)
