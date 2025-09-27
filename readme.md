@@ -19,4 +19,4 @@ I'm a sophomore at **Boston University**, studying **Computer Science** with a *
 - I love cooking steaks
 
 ---
-💡 *Always open to new opportunities!* 🚀
+Check out my most recent project, [Parrot Drop](https://parrotdrop.com)
