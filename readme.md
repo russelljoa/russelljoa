@@ -11,7 +11,7 @@ I'm a sophomore at **Boston University**, studying **Computer Science** with a *
 - **Email:** [rjoarder@bu.edu](mailto:rjoarder@bu.edu)
 - **LinkedIn:** [linkedin.com/in/russell-joarder](https://www.linkedin.com/in/russell-joarder/)
 
-## ⚡ Fun Facts
+## About Me
 - I have experience scaling a digital startup in high school to five figures MRR
 - I love cooking steaks (NY ribeye is the best cut)
 - Proud Philadelphian
